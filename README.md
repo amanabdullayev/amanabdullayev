@@ -10,4 +10,4 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=amanabdulla296&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=radical" />
