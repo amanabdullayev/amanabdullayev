@@ -6,12 +6,9 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 <!-- Actual text -->
 
-You can find me on <img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="30px"/>[1], or if you are interested in with my publications on peer-reviewed scientific journals, please visit my profile on [![GoogleScholar][<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png" width="30px"/>]][2].
+You can find me on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="30px"/>](https://www.linkedin.com/in/amanmyrat-abdullayew-94758b14/), or if you are interested in with my publications on peer-reviewed scientific journals, please visit my profile on [![GoogleScholar][<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png" width="30px"/>]][2].
 
-<!-- Icons -->
 
-[1.2]: (<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="30px"/>) (LinkedIn icon)
-[2.2]: https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png (GoogleScholar icon)
 
 <!-- Links to your social media accounts -->
 
