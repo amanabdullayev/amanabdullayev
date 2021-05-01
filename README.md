@@ -14,7 +14,7 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 # Recent projects
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=DS_projects_yandex&theme=dark" /> (https://github.com/amanabdulla296/DS_projects_yandex)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=DS_projects_yandex&theme=dark" />(https://github.com/amanabdulla296/DS_projects_yandex)
 
 
 # GitHub Stats
