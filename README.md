@@ -10,8 +10,8 @@ You can find me on [![LinkedIn][1.2]][1], or if you are interested in with my pu
 
 <!-- Icons -->
 
-[1.2]: <img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="40px">
-[2.2]: https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png width=30px (GoogleScholar icon without padding)
+[1.2]: https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" (LinkedIn icon)
+[2.2]: https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png (GoogleScholar icon)
 
 <!-- Links to your social media accounts -->
 
