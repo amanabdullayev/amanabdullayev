@@ -9,6 +9,11 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 *You can find me on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="20px"/>](https://www.linkedin.com/in/amanmyrat-abdullayew-94758b14/), or if you are interested in with my publications on peer-reviewed scientific journals, please visit my profile on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png" width="20px"/>](https://scholar.google.com/citations?user=22M2i14AAAAJ&hl=en).*
 
 
+# Favorite projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=github-readme-stats)](https://github.com/amanabdulla296/github-readme-stats)
+
+
 # GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=dark" /> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=github-readme-stats)](https://github.com/amanabdulla296/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=dark" />
