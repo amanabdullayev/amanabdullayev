@@ -15,6 +15,6 @@ You can find me on [![LinkedIn][1.2]][1], or if you are interested in with my pu
 
 <!-- Links to your social media accounts -->
 
-[1]: www.linkedin.com/in/amanmyrat-abdullayew-94758b14
+[1]: https://www.linkedin.com/in/amanmyrat-abdullayew-94758b14/
 [2]: https://scholar.google.com/citations?user=22M2i14AAAAJ&hl=en
 
