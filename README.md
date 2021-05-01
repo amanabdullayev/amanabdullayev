@@ -12,7 +12,7 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 # Favorite Projects
 ***coming soon***
 
-# Recent projects
+# Recent repositories
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=01_credit_scoring_YP&theme=dark" />](https://github.com/amanabdulla296/01_credit_scoring_YP.git)
 
