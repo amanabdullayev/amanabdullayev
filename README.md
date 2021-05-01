@@ -10,7 +10,7 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 # Favorite projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=github-readme-stats)](https://github.com/amanabdulla296/github-readme-stats)
+[![DS Project1](https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=github-readme-stats)](https://github.com/amanabdulla296/github-readme-stats) [![DS Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=github-readme-stats)](https://github.com/amanabdulla296/github-readme-stats)
 
 
 # GitHub Stats
