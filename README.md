@@ -10,7 +10,7 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 
 # Favorite Projects
-
+***coming soon***
 
 # Recent projects
 
@@ -21,4 +21,5 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=dark" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanabdull296&theme=dark" />
+# Top languages
+***coming soon***
