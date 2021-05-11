@@ -17,7 +17,7 @@ My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials
 
 # Recent repositories
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=01_credit_scoring_YP&theme=dark" />](https://github.com/amanabdulla296/01_credit_scoring_YP.git)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=01_credit_scoring_YP&theme=dark" />](https://github.com/amanabdulla296/01_credit_scoring_YP.git) [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=02_vehicle_sale_website_YP&theme=dark" />](https://github.com/amanabdulla296/02_vehicle_sale_website_YP)
 
 
 
