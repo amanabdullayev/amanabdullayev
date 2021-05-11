@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://github.com/amanabdulla296/amanabdullayev/blob/3d5e9aa6f66926e1e6b9d67971331952f9bca67b/arrwrhhthqx.gif" width="30px">
 
-My name is Aman(myrat) Abdullayev and I have almost finished my PhD in Materials science. Besides, I am an enthusiast of data science, intensively developing my skills towards ML, AI. Originally I am from Turkmenistan, but currently living in Berlin, Germany.
+My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my PhD in Materials science/Chemistry. Besides, I am an enthusiast of data science, intensively developing my skills towards ML, AI. Originally I am from Turkmenistan, but currently living in Berlin, Germany.
 
 <!-- Actual text -->
 
