@@ -11,7 +11,7 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 
 # Favorite Projects
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=02_vehicle_sale_website_YP&theme=dark" />](https://github.com/amanabdulla296/02_vehicle_sale_website_YP)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=02_vehicle_sale_website_YP&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/02_vehicle_price_on_a_website)
 
 
 
