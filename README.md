@@ -17,7 +17,8 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 
 # Recent repositories
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=01_credit_scoring_for_bank_customers&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/01_credit_scoring_for_bank_customers) 
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicumm&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/01_credit_scoring_for_bank_customers)
+
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=02_vehicle_sale_website_YP&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/02_vehicle_price_on_a_website)
 
 
