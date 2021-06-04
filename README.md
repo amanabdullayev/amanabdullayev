@@ -11,13 +11,13 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 
 # Featured Projects
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/03_video_game_suggestion)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
 
 
 
 # Recently added works
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/03_video_game_suggestion)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/01_credit_scoring_for_bank_customers)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/02_vehicle_price_on_a_website)
 
