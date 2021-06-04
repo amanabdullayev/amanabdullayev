@@ -11,7 +11,7 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 
 # Featured Projects
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum/03_video_game_suggestion&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/03_video_game_suggestion)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum/tree/main/03_video_game_suggestion&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/03_video_game_suggestion)
 
 
 
