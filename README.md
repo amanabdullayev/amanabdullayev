@@ -27,6 +27,7 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 # Aman's GitHub Stats
 <a href="https://github.com/amanabdulla296/amanabdulla296">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=dark" />
+  
 # Aman's top languages
 <a href="https://github.com/amanabdulla296/amanabdulla296">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanabdulla296&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
