@@ -12,15 +12,18 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 # Featured Projects
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/07_region_prediction_for_new_oil_well)
+
 
 
 
 # Recently added works
 
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/07_region_prediction_for_new_oil_well)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/06_customer_churn_prediction)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/05_mobile_plan_recommender)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/04_taxi_rides_analysis)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/03_mobile_operator_plans)
+
 
 
 
