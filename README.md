@@ -9,7 +9,8 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 
 
 
-# Featured Projects (upd. 24.07.2021)
+# Featured Projects 
+(upd. 26.08.2021)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=gold_extraction_prediction&theme=dark" />](https://github.com/amanabdulla296/gold_extraction_prediction)
@@ -17,14 +18,13 @@ My name is Amanmyrat(or shortly Aman) Abdullayev and I have almost finished my P
 
 
 
-# Recently added works (upd. 24.07.2021)
+# Recently added works 
+(upd. 26.08.2021)
 
-
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/12_Computer_Vision_Age_prediction)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/11_ML_with_text)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/10_taxi_demand_forecast)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/09_car_price_prediction)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/08_insurance_benefit_predition)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=gold_extraction_prediction&theme=dark" />](https://github.com/amanabdulla296/gold_extraction_prediction)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/07_region_prediction_for_new_oil_well)
-
 
 
 
