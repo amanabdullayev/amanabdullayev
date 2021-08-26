@@ -5,7 +5,7 @@ My name is Amanmyrat (or shortly Aman) Abdullayev. Originally I am from Turkmeni
 
 <!-- Actual text -->
 
-*You can find me on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="20px"/>](https://www.linkedin.com/in/amanmyrat-abdullayew-94758b14/), or if you are interested in with my publications on peer-reviewed scientific journals, please visit my profile on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png" width="20px"/>](https://scholar.google.com/citations?user=22M2i14AAAAJ&hl=en).*
+*You can find me on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download%20(1).png" width="20px"/>](https://www.linkedin.com/in/amanmyrat-abdullayew-94758b14/), or if you are interested in with my publications on peer-reviewed scientific journals, please visit my profile on [<img src="https://github.com/amanabdulla296/amanabdullayev/blob/4551dbaf8519259c0ec41c706293c257b5d435aa/download.png" width="20px"/>](https://scholar.google.com/citations?user=22M2i14AAAAJ&hl=en). I am frequently attending Kaggle competitions, and trying to develop my skills, if you are interested I am open to team up with you for challenging competitions [<img src="https://user-images.githubusercontent.com/56832126/130933332-19f2f0d3-bb52-4d58-ac4a-dcbccf0660db.png" width="20px"/>](https://www.kaggle.com/amanabdullayev)*
 
 
 
