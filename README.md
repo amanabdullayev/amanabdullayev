@@ -12,7 +12,7 @@ As a great enthusiast of data science, I am intensively developing my skills tow
 
 
 
-## Featured Projects 
+## ✨ Featured Projects 
 (upd. 13.09.2021)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
