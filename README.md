@@ -13,7 +13,7 @@ As a great enthusiast of data science, I am intensively developing my skills tow
 
 
 ## Featured Projects 
-(upd. 26.08.2021)
+(upd. 13.09.2021)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=gold_extraction_prediction&theme=dark" />](https://github.com/amanabdulla296/gold_extraction_prediction)
@@ -22,7 +22,7 @@ As a great enthusiast of data science, I am intensively developing my skills tow
 
 
 ## Recently added works 
-(upd. 26.08.2021)
+(upd. 13.09.2021)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=circuit_simulator&theme=dark" />](https://github.com/amanabdulla296/circuit_simulator)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/12_Computer_Vision_Age_prediction)
