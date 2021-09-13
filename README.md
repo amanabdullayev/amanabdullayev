@@ -21,7 +21,7 @@ As a great enthusiast of data science, I am intensively developing my skills tow
 
 
 
-## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/Calendar.gif" width="40px"> Recently added works 
+## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/Calendar.gif" width="40px" height="40px"> Recently added works 
 (upd. 13.09.2021)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=circuit_simulator&theme=dark" />](https://github.com/amanabdulla296/circuit_simulator)
@@ -33,7 +33,6 @@ As a great enthusiast of data science, I am intensively developing my skills tow
 
 
 ## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/piechart.gif" width="40px"> Aman's GitHub Stats
-![image](https://user-images.githubusercontent.com/56832126/133045287-6f64ec5a-750a-44e1-99c0-d0351f29218e.png)
 
 <a href="https://github.com/amanabdulla296/amanabdulla296">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=dark" />
