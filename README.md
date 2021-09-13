@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://github.com/amanabdulla296/amanabdullayev/blob/3d5e9aa6f66926e1e6b9d67971331952f9bca67b/arrwrhhthqx.gif" width="30px">
+# Hello, folks! <img src="https://github.com/amanabdulla296/amanabdullayev/blob/3d5e9aa6f66926e1e6b9d67971331952f9bca67b/arrwrhhthqx.gif" width="40px">
 
 My name is Amanmyrat Abdullayev, you can shortly call me Aman. I am a multilingual data scientist with a STEM background (about to finish my PhD in materials science). Currently, I am living in Berlin, Germany but originally from Turkmenistan.
 As a great enthusiast of data science, I am intensively developing my skills towards ML, AI. The application of ML/AI in natural sciences is my passion. If you have such projects, I would be more than happy to take part in them!
@@ -12,7 +12,7 @@ As a great enthusiast of data science, I am intensively developing my skills tow
 
 
 
-## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/sparkles.gif" width="30px"> Featured Projects 
+## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/sparkles.gif" width="40px"> Featured Projects 
 (upd. 13.09.2021)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Video_game_sale&theme=dark" />](https://github.com/amanabdulla296/Video_game_sale)
