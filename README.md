@@ -25,7 +25,7 @@ As a great enthusiast of data science, I am intensively developing my ML/AI skil
 ## <img src="https://github.com/amanabdullayev/amanabdullayev/blob/main/datasets/piechart.gif" width="40px"> Aman's GitHub Stats
 
 <a href="https://github.com/amanabdullayev/amanabdullayev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdulla296&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanabdullayev&show_icons=true&theme=dark" />
   
   
   
