@@ -22,18 +22,6 @@ As a great enthusiast of data science, I am intensively developing my ML/AI skil
 
 
 
-## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/Calendar.gif" height="40px"> Recently added works 
-(upd. 30.08.2022)
-
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=telecom_customer_churn_prediction&theme=dark" />](https://github.com/amanabdulla296/telecom_customer_churn_prediction)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=circuit_simulator&theme=dark" />](https://github.com/amanabdulla296/circuit_simulator)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/12_Computer_Vision_Age_prediction)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabdulla296&repo=Yandex_Practicum&theme=dark" />](https://github.com/amanabdulla296/Yandex_Practicum/tree/main/11_ML_with_text)
-
-
-
-
-
 ## <img src="https://github.com/amanabdulla296/amanabdulla296/blob/main/datasets/piechart.gif" width="40px"> Aman's GitHub Stats
 
 <a href="https://github.com/amanabdulla296/amanabdulla296">
