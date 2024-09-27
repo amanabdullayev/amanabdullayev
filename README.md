@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://github.com/amanabdullayev/amanabdullayev/blob/3d5e9aa6f66926e1e6b9d67971331952f9bca67b/arrwrhhthqx.gif" width="40px">
 
-My name is Amanmyrat Abdullayev. I am a multilingual data scientist with a natural science background (PhD in materials science/chemistry). Currently, I am living/working in Berlin, Germany, but originally from Turkmenistan.
+I am Aman Abdullayev, a data scientist with a natural science background (PhD in materials science/chemistry). Currently, I am living/working in Berlin, Germany, but originally from Turkmenistan.
 
 As a great enthusiast of data science, I am intensively developing my ML/AI skills. The application of ML/AI in natural sciences is my passion. If you have such projects, I would be more than happy to take part in them!
 
